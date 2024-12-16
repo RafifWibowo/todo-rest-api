@@ -1,6 +1,6 @@
 # Todo REST API
 
-This API was created to fulfill the study case of the Junior Backend Developer recruitment process at Soul Parking.
+This API was created to fulfill the case study of the Junior Backend Developer recruitment process at Soul Parking.
 
 ## Getting Started
 
